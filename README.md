@@ -1,4 +1,10 @@
-## Hi there 👋
+## This feels like Myspace profile for a girl in her late twenties learning something new.
+
+I'm such a beginner that I don't know what I don't know but, maybe this could be fun. A turn based game between me and my computer.
+
+I'm hoping to learn some new things to do on the computer perhaps. Starting out with python to begin but it's an open journey.
+
+Do not ask me about anything or for help with anything, I do not know.
 
 <!--
 **pompompomp0m/pompompomp0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
